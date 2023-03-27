@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/xULW8vRQrlIPRfiEog" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/justin-dog-office-xULW8vRQrlIPRfiEog">via GIPHY</a></p>
+<div id="header" align="center">
+  [<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>](https://media.giphy.com/media/xULW8vRQrlIPRfiEog/giphy.gif)
+</div>
+
+
 
 <!--
 **vermout94/vermout94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
