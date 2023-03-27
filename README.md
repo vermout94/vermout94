@@ -38,13 +38,13 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vermout94&theme=vision-friendly-dark)](https://git.io/streak-stats)
                                                                                                                                                     
-[![Top Langs](https://github-readme-stats-vermout94.vercel.app/api/top-langs?username=vermout94&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats-vermout94.vercel.app/api/top-langs?username=vermout94&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
                                                                                                                                                     
 [![Top Langs](https://github-readme-stats-git-master-vermout94.vercel.app/api?username=vermout94&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
                                                                                                                                                    
 
 ---
-                                                                                                                                                    
+     -->                                                                                                                                               
 <!--
 **vermout94/vermout94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
