@@ -11,9 +11,9 @@
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Dipping in the world of AI and machine learning.
+- :seedling: Currently learning: Pandas, Numpy and Pytorch
 
-- :zap: In my free time, I try to expand my knowledge on certain things.
+- :zap: In my free time, I try to expand my knowledge on AI and machine learning.
 
 ---
 
