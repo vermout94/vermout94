@@ -1,9 +1,5 @@
 ### WELCOME 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/xULW8vRQrlIPRfiEog/giphy.gif"/>
-</div>
-
 
 ---
 
