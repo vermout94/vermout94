@@ -5,11 +5,37 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a DevOps engineer.
 
-- :seedling: Currently learning: Pandas, Numpy and Pytorch
+- :seedling: Currently learning: DevSecOps, IT-Security, AWS, Networking 
 
-- :zap: In my free time, I try to expand my knowledge on AI and machine learning.
+- :zap: In my free time, I try to expand my knowledge in different fields.
+
+
+                                                                                                                                                    
+<!-- [![Top Langs](https://github-readme-stats-vermout94.vercel.app/api/top-langs?username=vermout94&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+                                                                                                                                                    
+[![Top Langs](https://github-readme-stats-git-master-vermout94.vercel.app/api?username=vermout94&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+                                                                                                                                                   
+
+---
+     -->                                                                                                                                               
+<!--
+**vermout94/vermout94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
 
 ---
 
@@ -33,26 +59,6 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vermout94&theme=vision-friendly-dark)](https://git.io/streak-stats)
-                                                                                                                                                    
-<!-- [![Top Langs](https://github-readme-stats-vermout94.vercel.app/api/top-langs?username=vermout94&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-                                                                                                                                                    
-[![Top Langs](https://github-readme-stats-git-master-vermout94.vercel.app/api?username=vermout94&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-                                                                                                                                                   
 
----
-     -->                                                                                                                                               
-<!--
-**vermout94/vermout94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
